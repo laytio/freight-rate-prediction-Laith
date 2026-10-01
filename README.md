@@ -66,7 +66,7 @@ The generated December prediction chart is shown below.
 
 ```text
 .
-├── freight_rate_model.ipynb
+├── Freight_Rate_Prediction_Assessment.ipynb
 ├── validation_predictions.csv
 ├── requirements.txt
 ├── score.py
